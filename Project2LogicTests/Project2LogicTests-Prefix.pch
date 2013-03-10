@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Project2LogicTests' target in the 'Project2LogicTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
